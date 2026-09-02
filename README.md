@@ -1,3 +1,5 @@
+
+
 # TheDarkPit
 
 > Atmospheric horror adventure game currently in development with Unity and C#.
@@ -64,6 +66,8 @@ The test scene is used to develop and test gameplay mechanics, character interac
 ## Gameplay Video
 
 Gameplay demonstration of the current development build.
+
+[▶ Watch TheDarkPit Gameplay Video](https://youtu.be/2ovtHv4dRaM)
 
 ## Current Development
 
