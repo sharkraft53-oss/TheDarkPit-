@@ -63,6 +63,7 @@ The test scene is used to develop and test gameplay mechanics, character interac
 
 ### Test Scene
 <img width="869" height="624" alt="TDP1" src="https://github.com/user-attachments/assets/53812c35-93a9-4474-9807-ffc1a0126ee8" />
+
 ## Gameplay Video
 
 Gameplay demonstration of the current development build.
